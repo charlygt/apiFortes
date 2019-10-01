@@ -1,0 +1,44 @@
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\ApiSimulacaoParcelas.deps.json
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\ApiSimulacaoParcelas.runtimeconfig.json
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\ApiSimulacaoParcelas.runtimeconfig.dev.json
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\ApiSimulacaoParcelas.dll
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\ApiSimulacaoParcelas.pdb
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.csprojAssemblyReference.cache
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.RazorAssemblyInfo.cache
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.RazorAssemblyInfo.cs
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.AssemblyInfoInputs.cache
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.AssemblyInfo.cs
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.RazorTargetAssemblyInfo.cache
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.csproj.CopyComplete
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.dll
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.pdb
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\ApiSimulacaoParcelas.deps.json
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\ApiSimulacaoParcelas.runtimeconfig.json
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\ApiSimulacaoParcelas.runtimeconfig.dev.json
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\ApiSimulacaoParcelas.dll
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\ApiSimulacaoParcelas.pdb
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.csprojAssemblyReference.cache
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.csproj.CoreCompileInputs.cache
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.RazorAssemblyInfo.cache
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.RazorAssemblyInfo.cs
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.AssemblyInfoInputs.cache
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.AssemblyInfo.cs
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.RazorTargetAssemblyInfo.cache
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.csproj.CopyComplete
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.dll
+C:\Users\Charly\Documents\Worckspace\ApiSimulacaoParcelas\ApiSimulacaoParcelas\obj\Debug\netcoreapp2.1\ApiSimulacaoParcelas.pdb
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\OMEGA 02\Documents\teste\testefortesapi\ApiSimulacaoParcelas\bin\Debug\netcoreapp2.1\Properties\launchSettings.json

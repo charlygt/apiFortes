@@ -25,7 +25,7 @@ namespace Business
                 _simulacaoRepository.AddSimulacao(simulacao);
                 _json.Type = "success";
                 _json.Title = "Simulação armazenada com sucesso!";
-                _json.Message = "Para ter acesso aos detalhes da simulação, dirija-se ao menu Solicitações.";
+                _json.Message = "Para ter acesso aos detalhes da simulação, dirija-se ao menu Simulaçoes.";
                 return _json;
             }
             catch (Exception ex)
